@@ -1,2 +1,4 @@
 # Algorithm-hw
-help me
+* I need some help me!!!!
+* Source code need correction ![here]("")
+* // prim algorithm 부분...
