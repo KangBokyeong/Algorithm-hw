@@ -1,4 +1,3 @@
-```java
 public class UnionFind {
 	private int parent[];
 	
@@ -26,4 +25,3 @@ public class UnionFind {
         parent[i] = j;
     }
 }
-```

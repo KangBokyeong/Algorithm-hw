@@ -1,4 +1,3 @@
-```java
 import java.util.*;
 
 public class PrimMain {
@@ -20,4 +19,3 @@ public class PrimMain {
 
     }
 }
-```

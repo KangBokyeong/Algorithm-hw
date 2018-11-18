@@ -1,5 +1,4 @@
-```java
-public class WG {
+﻿public class WG {
 	private int numOfVertex; // 정점의 개수
 	private int numOfEdge; // 간선의 개수
 	private int[][] weight; // 간선의 가중치
@@ -87,4 +86,3 @@ public class WG {
 		}
 	}
 }
-```
