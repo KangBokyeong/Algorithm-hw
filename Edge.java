@@ -1,4 +1,3 @@
-```java
 interface CompKey
 {
 	public int compareTo(Object obj);
@@ -15,4 +14,3 @@ public class Edge {
 	}
 	
 }
-```
